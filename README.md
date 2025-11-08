@@ -1,4 +1,4 @@
-# Discord Quest Completer (Fast)
+# Discord Quest Completer
 
 Fast and optimized Discord quest completion script that automatically completes various Discord quest types.
 
